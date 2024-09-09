@@ -1,0 +1,212 @@
+2024-03-03 23:59:25 - Identified: face_verification\faces\mat em.jpg with id 1 and a score of 0.9044840931892395
+2024-03-03 23:59:37 - Identified: face_verification\faces\mat em.jpg with id 1 and a score of 0.9315277338027954
+2024-03-03 23:59:59 - Identified: face_verification\faces\mat em.jpg with id 1 and a score of 0.8759188652038574
+2024-03-04 00:00:08 - Identified: face_verification\faces\mat em.jpg with id 1 and a score of 0.9042455554008484
+2024-03-04 00:00:24 - Identified: face_verification\faces\mat em.jpg with id 1 and a score of 0.9148129224777222
+2024-03-04 00:00:29 - Identified: face_verification\faces\mat em.jpg with id 1 and a score of 0.9166969060897827
+2024-03-04 00:00:35 - Identified: face_verification\faces\mat em.jpg with id 1 and a score of 0.9187979102134705
+2024-03-04 00:00:40 - Identified: face_verification\faces\mat em.jpg with id 1 and a score of 0.922081708908081
+2024-03-04 00:01:01 - Identified: face_verification\faces\mat em.jpg with id 1 and a score of 0.91871577501297
+2024-03-04 00:12:37 - Identified: face_verification\faces\mat em.jpg with id 1 and a score of 0.8785098195075989
+2024-03-04 00:12:41 - Identified: face_verification\faces\mat em.jpg with id 1 and a score of 0.9303193688392639
+2024-03-04 07:07:18 - Identified: face_verification\faces\mat em.jpg with id 1 and a score of 0.920522928237915
+2024-03-04 07:07:38 - Identified: face_verification\faces\mat em.jpg with id 1 and a score of 0.9130895733833313
+2024-03-05 11:48:31 - Identified: face_verification\faces\mat em.jpg with id 1 and a score of 0.9303193688392639
+2024-03-05 11:48:52 - Identified: face_verification\faces\mat em.jpg with id 1 and a score of 0.9286462068557739
+2024-03-05 12:25:30 - Identified: face_verification\faces\mat nguoi khac.jpg with id 1 and a score of 0.6012279391288757
+2024-03-05 12:25:41 - Identified: face_verification\faces\mat em.jpg with id 1 and a score of 0.8357313871383667
+2024-03-05 12:25:46 - Identified: face_verification\faces\mat em.jpg with id 1 and a score of 0.8996250629425049
+2024-03-05 12:25:50 - Identified: face_verification\faces\mat em.jpg with id 2 and a score of 0.8791701793670654
+2024-03-05 12:26:00 - Identified: face_verification\faces\mat em.jpg with id 2 and a score of 0.8797334432601929
+2024-03-06 16:24:34 - Identified: face_verification\faces\mat nguoi khac.jpg with id 1 and a score of 0.704571008682251
+2024-03-06 16:24:39 - Identified: face_verification\faces\mat nguoi khac.jpg with id 1 and a score of 0.7254929542541504
+2024-03-06 16:24:59 - Identified: face_verification\faces\mat nguoi khac.jpg with id 1 and a score of 0.6987076997756958
+2024-03-06 16:25:19 - Identified: face_verification\faces\mat nguoi khac.jpg with id 1 and a score of 0.7089322805404663
+2024-03-06 16:25:39 - Identified: face_verification\faces\mat nguoi khac.jpg with id 1 and a score of 0.7419532537460327
+2024-03-06 16:25:44 - Identified: face_verification\faces\mat nguoi khac.jpg with id 1 and a score of 0.7570277452468872
+2024-03-06 16:25:49 - Identified: face_verification\faces\mat nguoi khac.jpg with id 1 and a score of 0.7587682604789734
+2024-03-06 16:25:54 - Identified: face_verification\faces\mat nguoi khac.jpg with id 1 and a score of 0.7773120999336243
+2024-03-06 16:26:14 - Identified: face_verification\faces\mat nguoi khac.jpg with id 1 and a score of 0.6848933100700378
+2024-03-06 16:26:15 - Identified: face_verification\faces\mat em.jpg with id 5 and a score of 0.5789844989776611
+2024-03-06 16:26:20 - Identified: face_verification\faces\mat nguoi khac.jpg with id 1 and a score of 0.7175795435905457
+2024-03-06 16:26:25 - Identified: face_verification\faces\mat nguoi khac.jpg with id 1 and a score of 0.7394132614135742
+2024-03-06 16:26:25 - Identified: face_verification\faces\mat em.jpg with id 7 and a score of 0.5825461149215698
+2024-03-06 16:26:30 - Identified: face_verification\faces\mat em.jpg with id 7 and a score of 0.659764289855957
+2024-03-06 16:26:45 - Identified: face_verification\faces\mat nguoi khac.jpg with id 1 and a score of 0.6604152917861938
+2024-03-06 16:26:50 - Identified: face_verification\faces\mat em.jpg with id 11 and a score of 0.671897828578949
+2024-03-06 16:26:55 - Identified: face_verification\faces\mat nguoi khac.jpg with id 1 and a score of 0.6924644708633423
+2024-03-06 16:27:15 - Identified: face_verification\faces\mat nguoi khac.jpg with id 1 and a score of 0.6730666160583496
+2024-03-06 16:27:40 - Identified: face_verification\faces\mat nguoi khac.jpg with id 1 and a score of 0.6220561265945435
+2024-03-06 16:27:45 - Identified: face_verification\faces\mat nguoi khac.jpg with id 1 and a score of 0.6410136222839355
+2024-03-06 16:28:00 - Identified: face_verification\faces\mat nguoi khac.jpg with id 1 and a score of 0.6495856046676636
+2024-03-06 16:28:10 - Identified: face_verification\faces\mat nguoi khac.jpg with id 1 and a score of 0.652443528175354
+2024-03-06 16:31:55 - Identified: mat nguoi khac.jpg with id 1 and a score of 0.7192220091819763
+2024-03-06 16:33:56 - Identified: mat nguoi khac.jpg with id 1 and a score of 0.7062279582023621
+2024-03-06 16:34:27 - Identified: mat nguoi khac.jpg with id 1 and a score of 0.7254739999771118
+2024-03-08 07:36:26 - Identified: Employee (2).jpg with id 2 and a score of 0.7435235381126404
+2024-03-08 07:36:30 - Identified: Employee (2).jpg with id 2 and a score of 0.7845550179481506
+2024-03-08 07:36:55 - Identified: Employee (2).jpg with id 4 and a score of 0.7215092778205872
+2024-03-08 07:37:00 - Identified: Employee (6).jpg with id 4 and a score of 0.8650949001312256
+2024-03-09 09:44:59 - Identified: Employee (4).jpg with id 2 and a score of 0.7378630042076111
+2024-03-09 09:45:19 - Identified: Employee (4).jpg with id 2 and a score of 0.708336353302002
+2024-03-09 09:45:40 - Identified: Employee (4).jpg with id 2 and a score of 0.719151496887207
+2024-03-09 09:46:35 - Identified: Employee (4).jpg with id 2 and a score of 0.7108927369117737
+2024-03-09 09:46:40 - Identified: Employee (4).jpg with id 2 and a score of 0.7421429753303528
+2024-03-09 09:47:11 - Identified: Employee (4).jpg with id 2 and a score of 0.7421808242797852
+2024-03-09 09:47:57 - Identified: Employee (4).jpg with id 2 and a score of 0.7151666283607483
+2024-03-09 09:49:17 - Identified: Employee (4).jpg with id 11 and a score of 0.7037179470062256
+2024-03-09 09:49:43 - Identified: Employee (4).jpg with id 11 and a score of 0.7164701819419861
+2024-03-09 09:49:53 - Identified: Employee (4).jpg with id 11 and a score of 0.7339870929718018
+2024-03-09 09:50:13 - Identified: Employee (4).jpg with id 11 and a score of 0.722536027431488
+2024-03-09 09:50:23 - Identified: Employee (4).jpg with id 11 and a score of 0.763289749622345
+2024-03-16 14:05:38 - Identified: Employee (2).jpg with id 3 and a score of 0.7518053650856018
+2024-03-16 14:06:22 - Identified: Employee (2).jpg with id 3 and a score of 0.7742443084716797
+2024-03-16 14:06:41 - Identified: Employee (2).jpg with id 19 and a score of 0.7546171545982361
+2024-03-19 08:35:12 - Identified: Employee (8).jpg with id 1 and a score of 0.7175210118293762
+2024-03-19 08:35:17 - Identified: Employee (8).jpg with id 1 and a score of 0.7218128442764282
+2024-03-19 08:35:19 - Identified: Employee (3).jpg with id 7 and a score of 0.9214454889297485
+2024-03-19 08:35:42 - Identified: Employee (3).jpg with id 10 and a score of 0.8327798247337341
+2024-03-19 08:35:47 - Identified: Employee (3).jpg with id 10 and a score of 0.8632128834724426
+2024-03-19 08:35:53 - Identified: Employee (2).jpg with id 10 and a score of 0.8666814565658569
+2024-03-19 18:34:53 - Incorrect dress detected at 2024-03-19 18:34:53.392825 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:34:53 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.8197247982025146
+2024-03-19 18:34:55 - Incorrect dress detected at 2024-03-19 18:34:55.404065 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:34:55 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.8504960536956787
+2024-03-19 18:35:13 - Incorrect dress detected at 2024-03-19 18:35:13.603012 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:35:13 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.8639092445373535
+2024-03-19 18:35:18 - Incorrect dress detected at 2024-03-19 18:35:17.846669 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:35:18 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.8768947124481201
+2024-03-19 18:37:20 - Incorrect dress detected at 2024-03-19 18:37:20.153519 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:37:20 - Identified: face_verification\faces\chuong.jpg with id 1 and a score of 0.8047832250595093
+2024-03-19 18:39:42 - Incorrect dress detected at 2024-03-19 18:39:42.276481 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:39:42 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.8688572645187378
+2024-03-19 18:39:58 - Incorrect dress detected at 2024-03-19 18:39:58.041698 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:39:58 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.8932933807373047
+2024-03-19 18:40:20 - Incorrect dress detected at 2024-03-19 18:40:20.315850 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:40:20 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.6891947984695435
+2024-03-19 18:40:26 - Incorrect dress detected at 2024-03-19 18:40:26.416365 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:40:26 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.8248125314712524
+2024-03-19 18:40:38 - Incorrect dress detected at 2024-03-19 18:40:38.440656 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:40:38 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.7410849332809448
+2024-03-19 18:40:40 - Incorrect dress detected at 2024-03-19 18:40:40.482697 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:40:40 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.7592746019363403
+2024-03-19 18:40:42 - Incorrect dress detected at 2024-03-19 18:40:42.515090 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:40:42 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.8180539608001709
+2024-03-19 18:40:48 - Incorrect dress detected at 2024-03-19 18:40:48.691853 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:40:48 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.835723340511322
+2024-03-19 18:40:50 - Incorrect dress detected at 2024-03-19 18:40:50.591660 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:40:50 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.8617831468582153
+2024-03-19 18:41:14 - Correct dress detected at 2024-03-19 18:41:14.265162 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:41:14 - Identified: face_verification\faces\chuong.jpg with id 1 and a score of 0.8541660308837891
+2024-03-19 18:41:20 - Correct dress detected at 2024-03-19 18:41:20.299964 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:41:20 - Identified: face_verification\faces\chuong.jpg with id 1 and a score of 0.8916729092597961
+2024-03-19 18:41:24 - Correct dress detected at 2024-03-19 18:41:24.358777 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:41:24 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.83433598279953
+2024-03-19 18:41:36 - Correct dress detected at 2024-03-19 18:41:36.556744 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:41:36 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.6937524080276489
+2024-03-19 18:41:38 - Greeting detected at 2024-03-19 18:41:38.578389 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:41:45 - Correct dress detected at 2024-03-19 18:41:45.051102 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:41:45 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.7340273857116699
+2024-03-19 18:41:47 - Greeting detected at 2024-03-19 18:41:47.024473 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:41:51 - Correct dress detected at 2024-03-19 18:41:51.100557 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:41:51 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.7557545304298401
+2024-03-19 18:41:53 - Greeting detected at 2024-03-19 18:41:53.136581 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:41:57 - Correct dress detected at 2024-03-19 18:41:57.168960 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:41:57 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.7687795162200928
+2024-03-19 18:42:00 - Greeting detected at 2024-03-19 18:42:00.668898 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:42:10 - Greeting detected at 2024-03-19 18:42:10.806118 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:42:17 - Greeting detected at 2024-03-19 18:42:16.960686 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:42:19 - Correct dress detected at 2024-03-19 18:42:18.874813 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:42:19 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.705707848072052
+2024-03-19 18:42:23 - Correct dress detected at 2024-03-19 18:42:22.951997 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:42:23 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.7380608320236206
+2024-03-19 18:42:23 - Greeting detected at 2024-03-19 18:42:22.951997 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:42:27 - Correct dress detected at 2024-03-19 18:42:26.992358 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:42:27 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.7741388082504272
+2024-03-19 18:43:07 - Correct dress detected at 2024-03-19 18:43:07.492186 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:43:07 - Identified: face_verification\faces\chuong.jpg with id 11 and a score of 0.8063986897468567
+2024-03-19 18:43:29 - Greeting detected at 2024-03-19 18:43:29.866443 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:43:58 - Greeting detected at 2024-03-19 18:43:58.202491 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:44:04 - Correct dress detected at 2024-03-19 18:44:04.332550 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:44:04 - Identified: face_verification\faces\chuong.jpg with id 11 and a score of 0.6857383251190186
+2024-03-19 18:44:06 - Correct dress detected at 2024-03-19 18:44:06.506629 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:44:06 - Identified: face_verification\faces\chuong.jpg with id 11 and a score of 0.6862343549728394
+2024-03-19 18:44:15 - Correct dress detected at 2024-03-19 18:44:14.654060 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:44:15 - Identified: face_verification\faces\chuong.jpg with id 11 and a score of 0.7492724657058716
+2024-03-19 18:44:16 - Greeting detected at 2024-03-19 18:44:16.740650 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:44:22 - Greeting detected at 2024-03-19 18:44:22.773066 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:44:31 - Correct dress detected at 2024-03-19 18:44:30.965582 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:44:31 - Identified: face_verification\faces\chuong.jpg with id 11 and a score of 0.6678919792175293
+2024-03-19 18:44:33 - Greeting detected at 2024-03-19 18:44:33.384372 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:44:35 - Correct dress detected at 2024-03-19 18:44:35.319474 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:44:35 - Identified: face_verification\faces\chuong.jpg with id 11 and a score of 0.8637912273406982
+2024-03-19 18:44:39 - Greeting detected at 2024-03-19 18:44:39.408700 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:44:46 - Greeting detected at 2024-03-19 18:44:45.960272 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:44:48 - Correct dress detected at 2024-03-19 18:44:47.846310 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:44:48 - Identified: face_verification\faces\chuong.jpg with id 11 and a score of 0.7827672362327576
+2024-03-19 18:44:54 - Correct dress detected at 2024-03-19 18:44:54.118301 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:44:54 - Identified: face_verification\faces\chuong.jpg with id 11 and a score of 0.831827700138092
+2024-03-19 18:44:54 - Greeting detected at 2024-03-19 18:44:54.118301 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:44:58 - Correct dress detected at 2024-03-19 18:44:58.038326 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:44:58 - Identified: face_verification\faces\chuong.jpg with id 11 and a score of 0.8374054431915283
+2024-03-19 18:45:00 - Correct dress detected at 2024-03-19 18:45:00.049518 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:45:00 - Identified: face_verification\faces\chuong.jpg with id 11 and a score of 0.8829156160354614
+2024-03-19 18:45:00 - Greeting detected at 2024-03-19 18:45:00.049518 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:45:06 - Greeting detected at 2024-03-19 18:45:06.193942 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:45:12 - Greeting detected at 2024-03-19 18:45:12.569603 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:45:18 - Greeting detected at 2024-03-19 18:45:18.356992 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:45:23 - Correct dress detected at 2024-03-19 18:45:22.643695 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:45:23 - Identified: face_verification\faces\chuong.jpg with id 11 and a score of 0.6522628664970398
+2024-03-19 18:45:24 - Greeting detected at 2024-03-19 18:45:24.593695 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:45:32 - Greeting detected at 2024-03-19 18:45:32.747424 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:45:39 - Greeting detected at 2024-03-19 18:45:39.243061 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:45:45 - Greeting detected at 2024-03-19 18:45:45.193764 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:45:51 - Greeting detected at 2024-03-19 18:45:51.367733 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:45:54 - Correct dress detected at 2024-03-19 18:45:53.647297 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:45:54 - Identified: face_verification\faces\chuong.jpg with id 11 and a score of 0.7934266328811646
+2024-03-19 18:45:55 - Correct dress detected at 2024-03-19 18:45:55.527848 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:45:55 - Identified: face_verification\faces\chuong.jpg with id 11 and a score of 0.8310444355010986
+2024-03-19 18:45:58 - Correct dress detected at 2024-03-19 18:45:57.753977 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:45:58 - Identified: face_verification\faces\chuong.jpg with id 11 and a score of 0.8655436038970947
+2024-03-19 18:45:58 - Greeting detected at 2024-03-19 18:45:57.753977 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:45:59 - Correct dress detected at 2024-03-19 18:45:59.624173 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 18:45:59 - Identified: face_verification\faces\chuong.jpg with id 11 and a score of 0.8655548691749573
+2024-03-19 18:46:03 - Greeting detected at 2024-03-19 18:46:03.757256 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 19:49:38 - Incorrect dress detected at 2024-03-19 19:49:38.302228 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 19:49:38 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.7742235660552979
+2024-03-19 19:49:50 - Incorrect dress detected at 2024-03-19 19:49:50.443038 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 19:49:50 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.7327382564544678
+2024-03-19 19:49:52 - Incorrect dress detected at 2024-03-19 19:49:52.414357 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 19:49:52 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.7462660074234009
+2024-03-19 19:49:55 - Incorrect dress detected at 2024-03-19 19:49:54.952636 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 19:49:55 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.8155628442764282
+2024-03-19 19:49:58 - Incorrect dress detected at 2024-03-19 19:49:58.429833 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 19:49:58 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.8197584748268127
+2024-03-19 19:50:03 - Incorrect dress detected at 2024-03-19 19:50:02.705510 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 19:50:03 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.828423023223877
+2024-03-19 20:11:25 - Incorrect dress detected at 2024-03-19 20:11:25.411996 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 20:11:25 - Identified: face_verification\faces\chuong.jpg with id 5 and a score of 0.7457574009895325
+2024-03-19 20:11:27 - Incorrect dress detected at 2024-03-19 20:11:27.390484 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 20:11:27 - Identified: face_verification\faces\chuong.jpg with id 5 and a score of 0.8217476606369019
+2024-03-19 20:19:12 - Correct dress detected at 2024-03-19 20:19:11.888593 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 20:19:12 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.7980384826660156
+2024-03-19 20:19:15 - Greeting detected at 2024-03-19 20:19:15.182695 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 20:19:18 - Correct dress detected at 2024-03-19 20:19:18.517540 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 20:19:18 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.8429790735244751
+2024-03-19 20:19:18 - Greeting detected at 2024-03-19 20:19:18.517540 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 20:19:22 - Incorrect dress detected at 2024-03-19 20:19:22.599443 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 20:19:22 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.8602801561355591
+2024-03-19 20:19:35 - Incorrect dress detected at 2024-03-19 20:19:34.783674 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 20:19:35 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.7524927854537964
+2024-03-19 20:19:36 - Incorrect dress detected at 2024-03-19 20:19:36.678234 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 20:19:36 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.8253320455551147
+2024-03-19 20:19:41 - Incorrect dress detected at 2024-03-19 20:19:40.865111 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 20:19:41 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.8254570364952087
+2024-03-19 20:19:53 - Incorrect dress detected at 2024-03-19 20:19:53.110778 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 20:19:53 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.8028229475021362
+2024-03-19 20:20:13 - Incorrect dress detected at 2024-03-19 20:20:12.934200 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 20:20:13 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.7902510166168213
+2024-03-19 20:20:14 - Incorrect dress detected at 2024-03-19 20:20:14.718072 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 20:20:14 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.7961667776107788
+2024-03-19 20:20:21 - Incorrect dress detected at 2024-03-19 20:20:20.878133 for identified employee face_verification\faces\chuong.jpg
+2024-03-19 20:20:21 - Identified: face_verification\faces\chuong.jpg with id 2 and a score of 0.8623229265213013
