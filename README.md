@@ -4,3 +4,5 @@ In this project, I will build and train a convolutional neural network (CNN) com
 ![Image](https://github.com/user-attachments/assets/30838d18-09dd-4ecb-bf37-a6b35da21acd)
 
 ](url)
+
+![Image](https://github.com/user-attachments/assets/29f9c8ae-ba03-4058-831d-9a9971151684)
